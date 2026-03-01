@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Aniyomi: Animeluxe",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.animeluxe",
+    "apk": "aniyomi-ar.animeluxe-v1.0.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animeluxe",
+        "lang": "ar",
+        "id": "1234567890123456789",
+        "baseUrl": "https://wb.animeluxe.org"
+      }
+    ]
+  }
+]
