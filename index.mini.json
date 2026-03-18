@@ -1,18 +1,18 @@
 [
   {
-    "name": "Aniyomi: Animeluxe",
-    "pkg": "eu.kanade.tachiyomi.animeextension.ar.animeluxe",
-    "apk": "aniyomi-ar.animeluxe-v1.0.apk",
+    "name": "Aniyomi: Anime3rb",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime3rb",
+    "apk": "aniyomi-ar.anime3rb-v14.1.apk",
     "lang": "ar",
     "code": 1,
-    "version": "1.0",
+    "version": "14.1",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Animeluxe",
+        "name": "أنمي عرب",
         "lang": "ar",
         "id": "1234567890123456789",
-        "baseUrl": "https://wb.animeluxe.org"
+        "baseUrl": "https://anime3rb.com"
       }
     ]
   }
